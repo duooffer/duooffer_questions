@@ -1,3 +1,3 @@
-# phdoffer_questions
+# duooffer_questions
 
-对 [phdoffer.github.io](https://phdoffer.github.io) 有疑问/建议？Open an issue.
+对 [duooffer.github.io](https://duooffer.github.io) 有疑问/建议？Open an issue.
